@@ -229,3 +229,8 @@ expected_results = {
 ## Conclusion
 
 This project combines cutting-edge distributed training techniques with a practical, high-impact use case. By fine-tuning Qwen2.5-3B for function calling using FSDP optimizations, we'll demonstrate that thoughtful engineering and specialized training can enable smaller models to punch above their weight class. The insights gained will be immediately applicable to production ML workflows while advancing the state of open-source function-calling models.
+
+
+## References:
+
+- https://huggingface.co/datasets/Salesforce/xlam-function-calling-60k
